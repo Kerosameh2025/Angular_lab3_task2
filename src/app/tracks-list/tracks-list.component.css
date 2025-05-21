@@ -1,0 +1,23 @@
+.card {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.card-header {
+  padding: 1.5rem;
+}
+
+.badge {
+  font-size: 0.9rem;
+  padding: 0.5rem 0.8rem;
+  border-radius: 50px;
+}
+
+.card-title {
+  margin-bottom: 0.5rem;
+}
+
+.card-text {
+  color: #555;
+  margin-bottom: 1.5rem;
+}
